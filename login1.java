@@ -1,3 +1,0 @@
-sonix
-hii
-hello
